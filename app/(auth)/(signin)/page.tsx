@@ -7,8 +7,8 @@ import TestImage from '@/public/next.svg';
 import Image from 'next/image';
 
 export const metadata: Metadata = {
-  title: 'Authentication',
-  description: 'Authentication forms built using the components.'
+  title: 'Sample App',
+  description: ''
 };
 
 export default function AuthenticationPage() {
